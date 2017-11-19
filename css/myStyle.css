@@ -1,0 +1,25 @@
+img {
+    height: auto;
+    width: 100%;
+}
+
+.vertical {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.abcd {
+    min-width: 5em;
+    flex: 1;
+}
+.page-header {
+    margin-top: 0;
+}
+.panel-body {
+    padding-top: 0;
+}
+.featureImg{
+    padding-bottom: 15px;
+}
