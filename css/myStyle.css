@@ -4,15 +4,10 @@ img {
 }
 
 .vertical {
-    height: 100vh;
+    height: 115px;
     display: flex;
-    align-items: center;
+    align-items: right;
     flex-wrap: wrap;
-}
-
-.abcd {
-    min-width: 5em;
-    flex: 1;
 }
 .page-header {
     margin-top: 0;
@@ -22,4 +17,7 @@ img {
 }
 .featureImg{
     padding-bottom: 15px;
+}
+body {
+    background-color: white;
 }
